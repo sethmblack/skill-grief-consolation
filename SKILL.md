@@ -4,7 +4,8 @@ description: A therapeutic approach to processing loss and helping others throug
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.4116
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - grief-consolation
 - structure
